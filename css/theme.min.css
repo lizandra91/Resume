@@ -835,7 +835,7 @@ select[multiple].input-lg,textarea.input-lg{
     color:#8b8b8b
 }
 .navbar-inverse .navbar-nav>.active>a,.navbar-inverse .navbar-nav>.active>a:focus,.navbar-inverse .navbar-nav>.active>a:hover,.navbar-inverse .navbar-nav>li>a:focus,.navbar-inverse .navbar-nav>li>a:hover{
-    color:#ff3417;
+    color:#02A8F5;
     background-color:transparent
 }
 .navbar-inverse .navbar-toggle{
@@ -852,7 +852,7 @@ select[multiple].input-lg,textarea.input-lg{
 }
 .navbar-inverse .navbar-nav>.open>a,.navbar-inverse .navbar-nav>.open>a:focus,.navbar-inverse .navbar-nav>.open>a:hover{
     background-color:transparent;
-    color:#ff3417
+    color:#02A8F5
 }
 @media (max-width:991px){
     .navbar-inverse .navbar-nav .open .dropdown-menu>.dropdown-header{
@@ -865,7 +865,7 @@ select[multiple].input-lg,textarea.input-lg{
         color:#8b8b8b
     }
     .navbar-inverse .navbar-nav .open .dropdown-menu>.active>a,.navbar-inverse .navbar-nav .open .dropdown-menu>.active>a:focus,.navbar-inverse .navbar-nav .open .dropdown-menu>.active>a:hover,.navbar-inverse .navbar-nav .open .dropdown-menu>li>a:focus,.navbar-inverse .navbar-nav .open .dropdown-menu>li>a:hover{
-        color:#ff3417;
+        color:#02A8F5;
         background-color:transparent
     }
     .navbar-inverse .navbar-nav .open .dropdown-menu>.disabled>a,.navbar-inverse .navbar-nav .open .dropdown-menu>.disabled>a:focus,.navbar-inverse .navbar-nav .open .dropdown-menu>.disabled>a:hover{
@@ -877,13 +877,13 @@ select[multiple].input-lg,textarea.input-lg{
     color:#8b8b8b
 }
 .navbar-inverse .navbar-link:hover{
-    color:#ff3417
+    color:#02A8F5
 }
 .navbar-inverse .btn-link{
     color:#8b8b8b
 }
 .navbar-inverse .btn-link:focus,.navbar-inverse .btn-link:hover{
-    color:#ff3417
+    color:#02A8F5
 }
 .navbar-inverse .btn-link[disabled]:focus,.navbar-inverse .btn-link[disabled]:hover,fieldset[disabled] .navbar-inverse .btn-link:focus,fieldset[disabled] .navbar-inverse .btn-link:hover{
     color:#444
@@ -1543,7 +1543,7 @@ body{
     font-family:Titillium Web,sans-serif;
     background-repeat:repeat-x;
     /*background-image:linear-gradient(140deg,#ff5b17,#d91b00,#ff1721);
-    background-color:#ff3417;*/
+    background-color:#02A8F5;*/
     padding-top:247px
 }
 a,button{
@@ -1582,8 +1582,8 @@ a:focus,a:hover{
     border-bottom:2px solid transparent
 }
 .navbar-default .navbar-nav>.active>a,.navbar-default .navbar-nav>.active>a:focus,.navbar-default .navbar-nav>.active>a:hover,.navbar-default .navbar-nav>li>a:focus,.navbar-default .navbar-nav>li>a:hover{
-    color:#ff3417;
-    border-bottom:2px solid #ff3417;
+    color:#02A8F5;
+    border-bottom:2px solid #02A8F5;
     background-color:transparent
 }
 .navbar-default .navbar-nav>.disabled>a,.navbar-default .navbar-nav>.disabled>a:focus,.navbar-default .navbar-nav>.disabled>a:hover{
@@ -1599,8 +1599,8 @@ a:focus,a:hover{
     border-bottom:2px solid transparent
 }
 .navbar-inverse .navbar-nav>.active>a,.navbar-inverse .navbar-nav>.active>a:focus,.navbar-inverse .navbar-nav>.active>a:hover,.navbar-inverse .navbar-nav>li>a:focus,.navbar-inverse .navbar-nav>li>a:hover{
-    color:#ff3417;
-    border-bottom:2px solid #ff3417;
+    color:#02A8F5;
+    border-bottom:2px solid #02A8F5;
     background-color:transparent
 }
 .navbar-inverse .navbar-nav>.disabled>a,.navbar-inverse .navbar-nav>.disabled>a:focus,.navbar-inverse .navbar-nav>.disabled>a:hover{
@@ -1614,7 +1614,7 @@ a:focus,a:hover{
 }
 .navbar-toggle{
     border:none;
-    background-color:#ff3417
+    background-color:#02A8F5
 }
 .navbar li>a{
     font-size:14px;
@@ -1744,7 +1744,7 @@ a:focus,a:hover{
     font-weight:600;
     display:inline-block;
     padding:0 20px;
-    color:#ff3417;
+    color:#02A8F5;
     background-color:#fff
 }
 @media (min-width:992px){
@@ -1758,7 +1758,7 @@ a:focus,a:hover{
     left:-4px;
     display:inline-block;
     content:'_';
-    color:#ff3417;
+    color:#02A8F5;
     font-weight:200
 }
 .card-container{
@@ -1785,7 +1785,7 @@ a:focus,a:hover{
     line-height:1.3;
     position:relative;
     text-align:left;
-    color:#ff3417
+    color:#02A8F5
 }
 @media (min-width:992px){
     .side-note{
@@ -1803,7 +1803,7 @@ a:focus,a:hover{
     -webkit-transform:translateY(-50%);
     -ms-transform:translateY(-50%);
     transform:translateY(-50%);
-    background-color:#ff3417
+    background-color:#02A8F5
 }
 @media (min-width:992px){
     .side-note:after,.side-note:before{
@@ -1885,7 +1885,7 @@ a:focus,a:hover{
 }
 .resume-card .skill .progress-bar{
     box-shadow:inset 0 1px 2px #ffefb0;
-    background-color:#ff3417
+    background-color:#02A8F5
 }
 .resume-card .list li{
     line-height:1.8
